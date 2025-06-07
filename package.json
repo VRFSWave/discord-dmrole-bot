@@ -1,17 +1,15 @@
 {
   "name": "discord-dmrole-bot",
   "version": "1.0.0",
-  "description": "DM users by role bot",
   "main": "index.js",
+  "engines": {
+    "node": "16.x"
+  },
   "scripts": {
     "start": "node index.js"
   },
   "dependencies": {
     "discord.js": "^14.11.0",
-    "express": "^4.18.2",
     "dotenv": "^16.3.1"
-  },
-  "engines": {
-    "node": "18.x"
   }
 }
