@@ -1,6 +1,7 @@
 {
   "name": "discord-dmrole-bot",
   "version": "1.0.0",
+  "description": "A Discord bot to DM users with a specific role using slash commands",
   "main": "index.js",
   "engines": {
     "node": "16.x"
@@ -8,6 +9,8 @@
   "scripts": {
     "start": "node index.js"
   },
+  "author": "YourName",
+  "license": "MIT",
   "dependencies": {
     "discord.js": "^14.11.0",
     "dotenv": "^16.3.1"
