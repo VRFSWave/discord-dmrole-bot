@@ -4,7 +4,7 @@
   "description": "A Discord bot to DM users with a specific role using slash commands",
   "main": "index.js",
   "engines": {
-    "node": "16.x"
+    "node": "18.x"
   },
   "scripts": {
     "start": "node index.js"
